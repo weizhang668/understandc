@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("hello c!\n");
+    printf("欢迎来到半圆\n");
     return 0;
 }
