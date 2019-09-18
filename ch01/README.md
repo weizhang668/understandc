@@ -1,4 +1,5 @@
-# 2019.9.17
+## ch01
+初识C语言
 ## hello.c
 hello c
 ## mycode.c
